@@ -19,3 +19,4 @@
 - Sql(Mysql/can be normalized)
 - git/github/Bitbucket
 - jira/Trello
+- algorithm
