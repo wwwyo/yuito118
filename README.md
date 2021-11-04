@@ -10,13 +10,13 @@
 ## back-end skills
 - PHP/Laravel
 - Ruby/Ruby on Rails
-- Python/Flask
+- Python/Flask/scikit-learn
 
 ## others
 - AWS(cloudfront/ec2/rds/s3/etc...)
-- Docker
+- Docker/Docker-Compose
 - virtualbox/vagrant
-- Sql(Mysql/can be normalized)
+- sql(Mysql/can be normalized)
 - git/github/Bitbucket
 - jira/Trello
-- algorithm
+- algorithm(atcoder茶色)
