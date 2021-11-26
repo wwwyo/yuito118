@@ -5,18 +5,19 @@
 ## front-end skills
 - HTML/CSS/Sass/BootStrap
 - Javascript/jQuery/Vue
-- SEO/amp/core-web
+- SEO/amp/core-web/WordPress
 
 ## back-end skills
 - PHP/Laravel
 - Ruby/Ruby on Rails
-- Python/Flask/scikit-learn
+- Python/Flask
 
 ## others
 - AWS(cloudfront/ec2/rds/s3/etc...)
 - Docker/Docker-Compose
 - virtualbox/vagrant
-- sql(Mysql/can be normalized)
+- sql(Mysql)
 - git/github/Bitbucket
 - jira/Trello
 - algorithm(atcoder茶色)
+- 統計2級
