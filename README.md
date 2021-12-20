@@ -13,7 +13,7 @@
 - Python/Flask
 
 ## others
-- AWS(cloudfront/ec2/rds/s3/etc...)
+- AWS(cloudfront/ec2/rds/s3/lambda/etc...)
 - Docker/Docker-Compose
 - virtualbox/vagrant
 - sql(Mysql)
