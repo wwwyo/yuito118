@@ -19,7 +19,7 @@
 - sql(Mysql)
 - git/github/Bitbucket
 - jira/Trello
-- algorithm(atcoder茶色)
+- algorithm(atcoder緑)
 - 統計2級
 - [qiita](https://qiita.com/www_y118)
 - [note](https://note.com/www_y118)
