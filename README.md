@@ -4,7 +4,7 @@
 
 ## front-end skills
 - HTML/CSS/Sass/BootStrap
-- Javascript/jQuery/Vue
+- Javascript/jQuery/Vue/TypeScript
 - SEO/amp/core-web/WordPress
 
 ## back-end skills
