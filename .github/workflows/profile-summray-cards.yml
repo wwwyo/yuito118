@@ -25,8 +25,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Full-year calendar
       - uses: lowlighter/metrics@latest
+        name: Full-year calendar
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           plugin_isocalendar: yes
