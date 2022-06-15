@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yuito118/yuito118/main/profile-summary-card-output/solarized/4-productive-time.svg)
-```
-
-    
