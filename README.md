@@ -7,7 +7,6 @@
 
 ## back-end skills
 - PHP/Laravel
-- Ruby/Ruby on Rails
 - Python/Flask
 
 ## others
