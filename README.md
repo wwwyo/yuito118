@@ -13,7 +13,7 @@
 
 ## Others
 - Figma
-- algorithm(atcoder緑)
+- Algorithm(Atcoder緑)
 - 統計2級
 - [qiita](https://qiita.com/www_y118)
 - [note](https://note.com/www_y118)
