@@ -1,15 +1,18 @@
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
-## front-end skills
-- HTML/CSS/Sass/BootStrap
-- js[,,es6]/Vue/React/Next.js/TypeScript/jQuery
-- SEO/amp/core-web/WordPress
+## Preferred front-end tech
+- Typescript/Vue/React/Next.js
+- Tailwind/Emotion/Chakra UI
+- Prisma
+- Jest
+- Jamstack 💕
 
-## back-end skills
+## Preferred back-end tech
 - PHP/Laravel
-- Python/Flask
+- Nest.js
 
-## others
+## Others
+- Figma
 - algorithm(atcoder緑)
 - 統計2級
 - [qiita](https://qiita.com/www_y118)
