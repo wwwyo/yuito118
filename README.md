@@ -10,12 +10,6 @@
 - Python/Flask
 
 ## others
-- AWS(lambda/cloudfront/ec2/rds/s3/etc...)
-- Docker/Docker-Compose
-- virtualbox/vagrant
-- sql(Mysql)
-- git/github/Bitbucket
-- jira/Trello
 - algorithm(atcoder緑)
 - 統計2級
 - [qiita](https://qiita.com/www_y118)
