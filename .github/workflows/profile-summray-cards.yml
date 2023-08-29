@@ -1,34 +1,34 @@
-name: GitHub-Profile-Summary-Cards
+# name: GitHub-Profile-Summary-Cards
 
-on:
-  schedule: # execute every 24 hours
-    - cron: '* */24 * * *'
-  workflow_dispatch:
+# on:
+#   schedule: # execute every 24 hours
+#     - cron: '* */24 * * *'
+#   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: generate
 
-    steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: vn7n24fzkq/github-profile-summary-cards@release
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+#         with:
+#           USERNAME: ${{ github.repository_owner }}
           
-          name: Metrics
+#           name: Metrics
           
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        name: Full-year calendar
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+#   github-metrics:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         name: Full-year calendar
+#         with:
+#           filename: metrics.plugin.isocalendar.fullyear.svg
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: full-year
+#           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
